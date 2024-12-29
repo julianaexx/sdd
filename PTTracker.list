@@ -28,3 +28,9 @@ DOMAIN-SUFFIX,nextpt.net
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,qavo.me
+
+#无主之地3
+DOMAIN-SUFFIX,gearbox.com
+DOMAIN-SUFFIX,gearboxsoftware.com
+DOMAIN,shift.services.gearbox.com
+DOMAIN,services.gearboxsoftware.com
