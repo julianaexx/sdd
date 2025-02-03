@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,nextpt.net
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,qavo.me
-DOMAIN,test-ipv6.com
+DOMAIN-SUFFIX,test-ipv6.com
 
 #无主之地3
 DOMAIN-SUFFIX,gearbox.com
