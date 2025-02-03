@@ -1,5 +1,4 @@
-# 内容：PTTracker
-# 数量：22条
+#PTTracker
 DOMAIN-KEYWORD,tracker
 DOMAIN,fsm-us.eu.org
 DOMAIN-SUFFIX,carpt.net
@@ -25,9 +24,12 @@ DOMAIN-SUFFIX,ourhelp.club
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,zmpt.cc
 DOMAIN-SUFFIX,nextpt.net
+
+#杂项
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,qavo.me
+DOMAIN,test-ipv6.com
 
 #无主之地3
 DOMAIN-SUFFIX,gearbox.com
