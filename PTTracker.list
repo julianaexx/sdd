@@ -24,15 +24,3 @@ DOMAIN-SUFFIX,ourhelp.club
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,zmpt.cc
 DOMAIN-SUFFIX,nextpt.net
-
-#杂项
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN,weather-analytics-events.apple.com
-DOMAIN-SUFFIX,qavo.me
-DOMAIN-SUFFIX,test-ipv6.com
-
-#无主之地3
-DOMAIN-SUFFIX,gearbox.com
-DOMAIN-SUFFIX,gearboxsoftware.com
-DOMAIN,shift.services.gearbox.com
-DOMAIN,services.gearboxsoftware.com
