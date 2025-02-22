@@ -85,6 +85,11 @@ DOMAIN,security.cloudflare-dns.com
 DOMAIN,sm2.doh.pub
 DOMAIN,unfiltered.adguard-dns.com
 IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.1.1.2/32,no-resolve
+IP-CIDR,1.1.1.3/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,1.0.0.2/32,no-resolve
+IP-CIDR,1.0.0.3/32,no-resolve
 IP-CIDR,101.101.101.101/32,no-resolve
 IP-CIDR,12.159.2.159/32,no-resolve
 IP-CIDR,136.243.69.38/32,no-resolve
