@@ -2,7 +2,6 @@
 # 数量：24条
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,monsterhunter.com
 IP-CIDR,45.121.184.0/24,no-resolve
 IP-CIDR,103.10.124.0/23,no-resolve
 IP-CIDR,103.28.54.0/24,no-resolve
