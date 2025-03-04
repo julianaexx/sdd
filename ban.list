@@ -1,3 +1,5 @@
 # 内容：ban
 # 数量：1条
 DOMAIN,api.mcneel.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
