@@ -9,12 +9,14 @@ DOMAIN,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,jsdown.net
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,ottiptv.cc
+DOMAIN-SUFFIX,linux.do
 
 # 无主之地3
 DOMAIN-SUFFIX,gearbox.com
 DOMAIN-SUFFIX,gearboxsoftware.com
 DOMAIN,shift.services.gearbox.com
 DOMAIN,services.gearboxsoftware.com
+
 
 
 
