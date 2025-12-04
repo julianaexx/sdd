@@ -1,5 +1,5 @@
 # 杂项
-DOMAIN-SUFFIX,qavo.me
+DOMAIN-SUFFIX,kevz.me
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,gstatic.cn
@@ -18,3 +18,4 @@ DOMAIN,services.gearboxsoftware.com
 
 #Radmin VPN
 IP-CIDR,26.0.0.0/8,no-resolve
+
