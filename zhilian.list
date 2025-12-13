@@ -16,8 +16,16 @@ DOMAIN-SUFFIX,gearboxsoftware.com
 DOMAIN,shift.services.gearbox.com
 DOMAIN,services.gearboxsoftware.com
 
+# GTA5
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
+
 #Radmin VPN
 IP-CIDR,26.0.0.0/8,no-resolve
+
 
 
 
