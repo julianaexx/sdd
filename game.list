@@ -18,6 +18,8 @@ DOMAIN,wilds-prod-character-creation.s3.ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,playfabapi.com
 
 #MH GTA5
-DOMAIN,cdn.sc.rockstargames.com
-DOMAIN,patches.rockstargames.com
-DOMAIN,prod.cloud.rockstargames.com
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
