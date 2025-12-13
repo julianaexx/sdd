@@ -15,9 +15,9 @@ DOMAIN-SUFFIX,gearbox.com
 DOMAIN-SUFFIX,gearboxsoftware.com
 DOMAIN,shift.services.gearbox.com
 DOMAIN,services.gearboxsoftware.com
-DOMAIN-SUFFIX,rockstargames.com
 
 #Radmin VPN
 IP-CIDR,26.0.0.0/8,no-resolve
+
 
 
