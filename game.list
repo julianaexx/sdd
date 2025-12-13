@@ -16,10 +16,3 @@ DOMAIN,wilds-prod-character-creation.s3.ap-northeast-1.amazonaws.com
 
 #MH PlayFabAPI
 DOMAIN-SUFFIX,playfabapi.com
-
-#MH GTA5
-DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,rockstargames.com
-DOMAIN-SUFFIX,rsg.sc
-DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
