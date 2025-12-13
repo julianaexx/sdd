@@ -16,3 +16,39 @@ DOMAIN,wilds-prod-character-creation.s3.ap-northeast-1.amazonaws.com
 
 #MH PlayFabAPI
 DOMAIN-SUFFIX,playfabapi.com
+
+# GTA5
+DOMAIN,prod.ros.rockstargames.com
+DOMAIN,cs-gta5-prod.ros.rockstargames.com
+DOMAIN,conductor-prod.ros.rockstargames.com
+DOMAIN,prs-gta5-prod.ros.rockstargames.com
+DOMAIN,ugc-gta5-prod.ros.rockstargames.com
+DOMAIN,ps-gta5-prod.ros.rockstargames.com
+DOMAIN,mm-gta5-prod.ros.rockstargames.com
+DOMAIN,inbox-gta5-prod.ros.rockstargames.com
+DOMAIN,crews-gta5-prod.ros.rockstargames.com
+DOMAIN,prod.telemetry.ros.rockstargames.com
+DOMAIN,prod.p02sjc.pod.rockstargames.com
+DOMAIN,feed-rdr2-prod.ros.rockstargames.com
+DOMAIN,ugc-rdr2-prod.ros.rockstargames.com
+DOMAIN,prs-rdr2-prod.ros.rockstargames.com
+DOMAIN,posse-rdr2-prod.ros.rockstargames.com
+DOMAIN,conductor-rdr2-prod.ros.rockstargames.com
+DOMAIN,inbox-rdr2-prod.ros.rockstargames.com
+DOMAIN,crews-rdr2-prod.ros.rockstargames.com
+DOMAIN,spap-rdr2-prod.ros.rockstargames.com
+DOMAIN,ps-rdr2-prod.ros.rockstargames.com
+DOMAIN,minigame1-rdr2-prod.ros.rockstargames.com
+DOMAIN,minigame2-rdr2-prod.ros.rockstargames.com
+DOMAIN,minigame3-rdr2-prod.ros.rockstargames.com
+DOMAIN,minigame4-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcpdc1-web1-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcpdc1-web2-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcpdc1-web3-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcpdc1-web4-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcpdc2-web1-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcpdc2-web2-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcpdc2-web3-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcpdc2-web4-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcsession1-rdr2-prod.ros.rockstargames.com
+DOMAIN,sjcsession2-rdr2-prod.ros.rockstargames.com
