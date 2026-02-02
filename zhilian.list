@@ -9,6 +9,7 @@ DOMAIN,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,jsdown.net
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,ottiptv.cc
+DOMAIN-SUFFIX,poloai.top
 
 # 无主之地3
 DOMAIN-SUFFIX,gearbox.com
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
 
 #Radmin VPN
 IP-CIDR,26.0.0.0/8,no-resolve
+
 
 
 
