@@ -28,8 +28,9 @@ DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
 #Radmin VPN
 IP-CIDR,26.0.0.0/8,no-resolve
 
-
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-
-
-
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN,clientservices.googleapis.com
+DOMAIN,update.googleapis.com
+DOMAIN,translate.googleapis.com
+DOMAIN,fonts.googleapis.com
