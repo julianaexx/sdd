@@ -29,6 +29,6 @@ DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
 IP-CIDR,26.0.0.0/8,no-resolve
 
 #Windows时区
-- DOMAIN-SUFFIX,inference.location.live.net
-- DOMAIN-SUFFIX,location.microsoft.com
-- DOMAIN-KEYWORD,location.microsoft
+DOMAIN-SUFFIX,inference.location.live.net
+DOMAIN-SUFFIX,location.microsoft.com
+DOMAIN-KEYWORD,location.microsoft
