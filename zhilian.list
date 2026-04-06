@@ -27,3 +27,8 @@ DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
 
 #Radmin VPN
 IP-CIDR,26.0.0.0/8,no-resolve
+
+#Windows时区
+- DOMAIN-SUFFIX,inference.location.live.net,DIRECT
+- DOMAIN-SUFFIX,location.microsoft.com,DIRECT
+- DOMAIN-KEYWORD,location.microsoft,DIRECT
