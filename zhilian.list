@@ -27,3 +27,13 @@ DOMAIN-KEYWORD,location.microsoft
 DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
+
+#地平线端口
+DST-PORT,3544,DIRECT
+DST-PORT,4500,DIRECT
+DST-PORT,500,DIRECT
+DST-PORT,3074,DIRECT
+
+#GTA5端口
+DST-PORT,6672,DIRECT
+DST-PORT,61455-61458,DIRECT
