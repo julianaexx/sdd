@@ -25,3 +25,8 @@ IP-CIDR,26.0.0.0/8,no-resolve
 DOMAIN-SUFFIX,inference.location.live.net
 DOMAIN-SUFFIX,location.microsoft.com
 DOMAIN-KEYWORD,location.microsoft
+
+#GTA5 CDN
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
