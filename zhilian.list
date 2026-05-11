@@ -22,18 +22,3 @@ DOMAIN,services.gearboxsoftware.com
 DOMAIN-SUFFIX,inference.location.live.net
 DOMAIN-SUFFIX,location.microsoft.com
 DOMAIN-KEYWORD,location.microsoft
-
-#GTA5 CDN
-DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
-
-#地平线端口
-DST-PORT,3544
-DST-PORT,4500
-DST-PORT,500
-DST-PORT,3074
-
-#GTA5端口
-DST-PORT,6672
-DST-PORT,61455-61458
