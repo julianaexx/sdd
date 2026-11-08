@@ -1,0 +1,22 @@
+# Apple TV subtitles: English + Simplified Chinese
+# Loon handles subtitle rewriting; the router handles Internet proxying.
+# No proxy nodes, proxy subscriptions, or remote routing rule lists.
+# Select rule mode / automatic routing and start Loon Tunnel.
+# Enable Script and Rewrite in the app's Advanced Configuration.
+# A Loon CA certificate must be installed and trusted on Apple TV.
+# This public file intentionally contains no CA private key or credentials.
+
+[General]
+dns-server = system
+allow-wifi-access = false
+
+[Rule]
+FINAL,DIRECT
+
+[Plugin]
+https://gh-proxy.org/https://github.com/julianaexx/sdd/raw/refs/heads/main/DualSubs.AppleTV.EN-ZH-HANS.plugin, tag=AppleTV-EN-ZH-HANS, enabled=true
+https://gh-proxy.org/https://github.com/julianaexx/sdd/raw/refs/heads/main/iRingo.TV.official.plugin, tag=AppleTV-Subtitle-Compatibility, enabled=true
+
+[MITM]
+enable = true
+hostname = hls.itunes.apple.com, hls-svod.itunes.apple.com, vod-*.tv.apple.com, uts-api.itunes.apple.com, umc-tempo-api.apple.com, play-cdn.itunes.apple.com, play-edge-cdn.itunes.apple.com
